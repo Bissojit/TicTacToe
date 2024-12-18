@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# TicTacToe Game
+
+A simple and interactive multiplayer TicTacToe game built using React. This project demonstrates core concepts of React, including component-based architecture, state management, and event handling, while providing an engaging gaming experience.
+
+## Features
+
+1. Multiplayer Gameplay: Two players can take turns to play on the same device.
+2. Real-Time Updates: The game board updates dynamically after every move.
+3. Win Detection: Identifies the winner or declares a draw when the game concludes.
+4. Responsive Design: Ensures a seamless experience across devices.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
