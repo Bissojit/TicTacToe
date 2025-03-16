@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import './TicTacToe.css';
-import circle_icon from '/Users/bissojitsarker/my-react-app/src/Components/Assets/circle.jpg';
-import cross_icon from '/Users/bissojitsarker/my-react-app/src/Components/Assets/Cross.png';
+const cross_icon = "https://e7.pngegg.com/pngimages/482/392/png-clipart-black-x-mark-tic-tac-toe-oxo-holiday-tic-tac-toe-game-blue-cross-miscellaneous-angle.png";
+const circle_icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Circle-image.svg/480px-Circle-image.svg.png";
 
 const TicTacToe = () => {
     const [count, setCount] = useState(0);
